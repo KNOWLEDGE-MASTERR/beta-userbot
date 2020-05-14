@@ -12,7 +12,7 @@ from userbot.utils import admin_cmd
 async def _(event):
     if event.fwd_from:
         return
-    animation_interval = 0.1
+    animation_interval = 0.2
     animation_ttl = range(0,36)
     #input_str = event.pattern_match.group(1)
    # if input_str == "sunny":
@@ -23,19 +23,19 @@ async def _(event):
             "known",
             "as",
             "gajnii",
-            "O",
+            "🖕🖕🖕",
+            "S",
             "U",
-            "B",
-            "C",
-            "FK",
-            "UU",
-            "FCUK",
-            "UOY",
-            "C",
-            "F",
+            "N",
+            "N",
             "Y",
-            "F",
-            "Ok Sar 😇"
+            "FUCK",
+            "YOU",
+            "😏😏😏",
+            "Chutiya",
+            "Sunny",
+            "uff (gajni)",
+            "@gajnii 👈click here"
         ]
 
     for i in animation_ttl:
